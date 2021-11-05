@@ -1,3 +1,3 @@
 {
-  server:{mjp:"http://app.daruttaqwa.or.id"}
+  "server":[{mjp:"http://app.daruttaqwa.or.id"}]
 }
